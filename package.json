@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/imox2/leetcode/issues"
   },
-  "homepage": "https://github.com/imox2/leetcode#readme"
+  "homepage": "https://github.com/imox2/leetcode#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-google": "^0.14.0"
+  }
 }
