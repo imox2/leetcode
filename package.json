@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Collection of my solution to leetcode problems @ https://leetcode.com/problemset/all/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imox2/leetcode.git"
+  },
+  "keywords": [
+    "algorithms",
+    "javascript"
+  ],
+  "author": "imox2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imox2/leetcode/issues"
+  },
+  "homepage": "https://github.com/imox2/leetcode#readme"
+}
