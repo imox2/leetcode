@@ -34,3 +34,8 @@ const isValid = s => { // eslint-disable-line
 
   return stack.length == 0;
 };
+
+const api = {
+  isValid,
+};
+module.exports = api;
